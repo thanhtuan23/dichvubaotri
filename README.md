@@ -1,5 +1,5 @@
 Đề tài: Xây dựng phần mềm kinh doanh dịch vụ bảo trì máy lạnh
-Nhóm thực hiện: Nhóm 17
+
 -	Trong bối cảnh cuộc sống hiện đại ngày càng phụ thuộc vào công nghệ số, việc áp dụng phần mềm kinh doanh trong các lĩnh vực khác nhau không chỉ là một sự lựa chọn mà còn là một yếu tố quyết định trong việc nâng cao hiệu suất và cạnh tranh trong thị trường. Trong ngành dịch vụ bảo trì máy lạnh, việc sử dụng phần mềm kinh doanh chuyên biệt không chỉ giúp tăng cường quản lý mà còn đem lại sự linh hoạt và tính chuyên nghiệp trong mỗi giao dịch.
 -	Đề tài của chúng tôi tập trung vào việc phát triển một phần mềm kinh doanh đa chức năng dành cho các doanh nghiệp hoạt động trong lĩnh vực bảo trì máy lạnh. Phần mềm này không chỉ đơn thuần là một công cụ quản lý thông tin mà còn là một hệ thống tích hợp, giúp tổ chức và tối ưu hóa mọi khía cạnh của hoạt động kinh doanh, từ việc quản lý dữ liệu khách hàng đến việc tối ưu hóa lịch trình công việc và quản lý nguồn lực.
 -	Mục tiêu của dự án là xây dựng một phần mềm kinh doanh toàn diện, đáp ứng được nhu cầu đa dạng của các doanh nghiệp bảo trì máy lạnh. Phần mềm sẽ được thiết kế để hỗ trợ quy trình làm việc từ khi khách hàng liên hệ, lên lịch trình dịch vụ, quản lý nguồn lực và nhân lực, đến việc tính toán chi phí và doanh thu.
